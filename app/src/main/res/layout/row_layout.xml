@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="78dp"
+    android:background="?attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/read_sender_name"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:text="Anjani Raj"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/read_sender_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:text="anjani_raj"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/read_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:text="22 Jun"
+        android:textSize="14sp" />
+
+
+</LinearLayout>

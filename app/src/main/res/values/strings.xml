@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MailBox</string>
+    <string name="Name">Name</string>
+    <string name="id">Create your ID</string>
+    <string name="sign_up">Sign up to get started!</string>
+    <string name="lets_go">Let\'s go!</string>
+    <string name="god">god</string>
+    <string name="is_user_registered">isuserregistered</string>
+    <string name="user_name">username</string>
+    <string name="user_id">userid</string>
+    <string name="open_nav">opennav</string>
+    <string name="closed_nav">closednav</string>
+    <string name="action_bar_height">actionbarheight</string>
+    <string name="content_desc_cross">cross</string>
+    <string name="letter_date">letterdate</string>
+    <string name="letter_name">lettername</string>
+    <string name="letter_body">letterbody</string>
+    <string name="id_hint">User ID of reciever</string>
+    <string name="message_hint">Type your message</string>
+</resources>
